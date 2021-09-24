@@ -1,6 +1,6 @@
 # SimplePath
 
-Simple path is an easy to use script that allows generating files for network relationship between and can easily be uploaded to Cytoscape or any network relationship visualization programs that supports SIF files. SimplePath uniquness comes from the ability to visualize networks from an independent locus or all loci.
+Simple path is an easy to use script that allows generating files for network relationship and can easily be uploaded to Cytoscape or any network visualization program that supports SIF files. SimplePath uniquness comes from the ability to visualize networks from an independent locus or all loci.
 
 ## Workflow
 
