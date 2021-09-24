@@ -12,7 +12,7 @@ Below are the required and optional arguments that can be accessed by typing `py
 
 usage: simple_path.py [-h] [-i INPUT] [-o PARAMETER] [-t PARAMETER] [-db FILE]
 
-simple program for generating SIF to full understand relationships between biological processes.
+simple program for generating SIF to fully understand relationships between biological processes.
 
 optional arguments:
   -h, --help            show this help message and exit
