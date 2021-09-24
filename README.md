@@ -84,7 +84,7 @@ you can replace the `-i` option to your own desired input file
 
 ### Results
 
-After running the program a directory will appear on you current directory that contains all `.SIF` files. There are two types of `.SIF` files where one of them has the `all` tag, which all nodes and interactions in one file and a `.SIF` file for locus 
+After running the program a directory will appear on you current directory that contains all `.SIF` files.
 
 ```
 
